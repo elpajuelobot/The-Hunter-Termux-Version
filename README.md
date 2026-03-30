@@ -12,7 +12,7 @@
 Antes de empezar con la presentación de este framework, cabe recalcar que **esta herramienta está creada con fines educativos y su uso a un tercero sin consentimiento es ilegal, el creador del repositorio no se hace cargo de problemas legales con el uso indebido del framework.**
 
 
-**The-Hunter-Termux-Version**es una readaptación del framework original [The-Hunter](https://github.com/elpajuelobot/The-Hunter.git) pero esta vez adaptado para su funcionamiento en Termux, es decir, Android. Para los que no
+**The-Hunter-Termux-Version**es una readaptación del framework original [The-Hunter](https://github.com/elpajuelobot/The-Hunter.git) pero esta vez adaptado para su funcionamiento en Android con Termux, y lo mejor de todo es que este framework es Root-less, es decir, que no necesitas tener rooteado el móvil para usarlo. Para los que no
 sepan todavía que es **The-Hunter**, es un framework de simulación de vectores de ataque de ingeniería social. Está creado con el fin de ayudar a los trabajadores de ciberseguridad y los administradores de sistemas a enseñar el funcionamiento de estas webs fraudulentas
 y entrenar así a los demás en la detección de URLs maliciosas.
 
