@@ -1,6 +1,6 @@
 # The-Hunter-Termux-Version
 
-![banner-inicial](assets/banner.png)
+![banner-inicial](assets/banner.jpeg)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Termux](https://img.shields.io/badge/Termux-Supported-green?style=for-the-badge&logo=termux)
@@ -54,13 +54,13 @@ pkg install git -y && git clone https://github.com/tu-usuario/The-Hunter-Termux-
 Antes de ejecutar el `install.sh`:
 
 
-![before-install](assets/before-install.png)
+![before-install](assets/before-install.jpeg)
 
 
 Después de ejecutar el `install.sh`:
 
 
-![after-install](assets/after-install.png)
+![after-install](assets/after-install.jpeg)
 
 
 # Notificaciones
