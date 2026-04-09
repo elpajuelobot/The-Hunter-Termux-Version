@@ -69,6 +69,7 @@ Después de ejecutar el `install.sh`:
   <img src="assets/after-install.jpeg" width="300" title="Descripción">
 </p>
 
+Una vez el script principal esté funcionando se pedirá que se introduzca una sola vez una clave para el framework de Flask y el enlace de la WEBHOOK de Discord, que se guardaría en un archivo .env. Después se pedirá que elijas la Red social a la que vas a simular y a continuación el enlace al que se va a redirigir una vez los datos sean recogidos.
 
 # Notificaciones
 
