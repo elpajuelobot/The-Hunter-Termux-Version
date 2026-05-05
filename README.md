@@ -45,7 +45,7 @@ chmod +x install.sh
 ## Para los que quieran ir más rápido
 
 ```bash
-pkg install git -y && git clone https://github.com/tu-usuario/The-Hunter-Termux-Version.git && cd The-Hunter-Termux-Version && chmod +x install.sh && ./install.sh
+pkg install git -y && git clone https://github.com/elpajuelobot/The-Hunter-Termux-Version.git && cd The-Hunter-Termux-Version && chmod +x install.sh && ./install.sh
 ```
 
 ### Funcionamiento del `install.sh`:
